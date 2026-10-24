@@ -1,0 +1,40 @@
+W11 鼠标指针 · Linux (Xcursor) 版
+
+原始指针美术（Windows 11 指针包）
+    "W11 Cursors Light HDPI v2.2 default"
+    Copyright (c) Jepri Creations
+    署名见源包各配色目录下的 Install.inf：
+        W11 Cursors Light HDPI v2.2 default By Jepri Creations
+    源包未提供作者网址与许可协议说明，本仓库不主张对该美术的任何权利。
+
+格式转换、渲染修正与脚本（本仓库代码：tools/、install.sh）
+    Copyright (c) 2026 FragrantHaze
+    MIT License（全文见下）
+
+
+MIT License
+
+Copyright (c) 2026 FragrantHaze
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+说明：本仓库中的 Xcursor 主题文件（theme/）是上述原始指针美术的格式转换
+产物，其版权归属与再分发条件以原作者 Jepri Creations 的要求为准；MIT 许可
+仅覆盖本仓库的转换脚本与安装脚本。

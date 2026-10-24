@@ -1,0 +1,4 @@
+[Icon Theme]
+Name=W11-Light-default
+Comment=Windows 11 cursor pack converted to Xcursor
+Inherits=Adwaita
